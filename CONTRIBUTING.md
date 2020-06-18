@@ -1,5 +1,7 @@
 # Contributing to Bisq
 
+# testing
+
 Anyone is welcome to contribute to Bisq. This document provides an overview of how we work. If you're looking for somewhere to start contributing, check out [critical bugs](https://bisq.wiki/Critical_Bugs) or see [good first issue](https://github.com/bisq-network/bisq/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue") list.
 
 
